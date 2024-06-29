@@ -1,0 +1,33 @@
+body {
+    width: 70%;
+    background-image: url(imagens/fundo.png);
+}
+
+div {
+    background-color: antiquewhite;
+    padding: 10px;
+}
+
+p , h2 , table{
+    margin: center;
+}
+
+td {
+    color:rgb(18, 18, 85);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+.cabecalho {
+    background-color: rgb(245, 207, 193);
+    
+}
+
+
+.fundo {
+    width: 100%;
+    
+}
+
+footer {
+    padding-left: 50%;
+}
